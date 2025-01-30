@@ -1,8 +1,4 @@
-I'll extract the content from your Jupyter Notebook and generate a `README.md` file based on it. Let me process the file now.
 
-Your Jupyter Notebook appears to be an exploratory data analysis (EDA) project on **Netflix movies**, focusing on films from the 1990s. Below is a well-structured `README.md` file for your GitHub repository.
-
----
 
 # 📽️ Netflix Movies EDA Project
 
